@@ -10,7 +10,11 @@ Ia sukar. Ia sentiasa sukar buat kali pertama kamu melakukan sesuatu. Terutama a
 
 Membaca artikel & menonton tutorial boleh membantu, tetapi apa yang lebih baik daripada melakukan perkara dalam persekitaran yang praktikal? Projek ini bertujuan memberi bimbingan & memudahkan seseorang yang baru bermula untuk membuat sumbangan pertama mereka. Jika kamu ingin membuat sumbangan pertama kamu, ikuti langkah-langkah di bawah.
 
+<<<<<<< HEAD
 #### *Jika anda tidak selesa dengan 'command line', [sini adalah tutorial menggunakan alat GUI.]( #tutorials-using-other-tools )*
+=======
+#### *Jika anda tidak selesa dengan 'command line', [sini adalah tutorial menggunakan alat GUI.](#Tutorial-Menggunakan-Alat-Lain)*
+>>>>>>> upstream/main
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 

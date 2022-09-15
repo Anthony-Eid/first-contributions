@@ -386,3 +386,7 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 .vscode/settings.json
+<<<<<<< HEAD
+=======
+.DS_Store
+>>>>>>> upstream/main

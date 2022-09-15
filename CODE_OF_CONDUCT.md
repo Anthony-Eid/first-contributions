@@ -9,7 +9,11 @@ size, disability, ethnicity, gender identity and expression, level of experience
 nationality, personal appearance, race, religion, or sexual identity and
 orientation.
 
+<<<<<<< HEAD
 ## Our Standards
+=======
+## Our Standard
+>>>>>>> upstream/main
 
 Examples of behaviour that contributes to creating a positive environment
 include:
@@ -67,3 +71,9 @@ available at [http://contributor-covenant.org/version/1/4][version]
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+<<<<<<< HEAD
+=======
+
+Thanks,
+Happy Contributing... 
+>>>>>>> upstream/main

@@ -10,7 +10,11 @@ Minden kezdet nehéz, ezért szeretnénk segíteni számodra az első lépésekb
 
 A projekt célja, hogy útmutatást nyújtson, egyszerűsítse és segítse a kezdők első lépéseit nyilt forráskódú szoftverek közös programozásában. Ha te is most készülsz először ilyet csinálni, segítünk neked, kövessd az alábbi lépéseket.
 
+<<<<<<< HEAD
 #### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.]( #tutorials-using-other-tools )*
+=======
+#### *Ha a parancssor kényelmetlen, [itt egy tutorial a GUI felület használatához.](#Oktatóanyagok-más-eszközök-használatával)*
+>>>>>>> upstream/main
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="forkold ezt a repot" />
 
@@ -32,7 +36,11 @@ Nyiss egy terminált és futtasd a következő parancsot:
 ```
 git clone "url you just copied"
 ```
+<<<<<<< HEAD
 a "url you just copied" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
+=======
+A "url you just copied" kifejezést, cseréld ki (idézőjelek nélkül) a vágólapra helyezett repository url címére (ami ebből a projektől ágazik). Az ágaztatás folyamatát lásd az előző lépésben.
+>>>>>>> upstream/main
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="másold az URL címet a vágólapra" />
 
@@ -40,7 +48,11 @@ Például:
 ```
 git clone https://github.com/a-te-git-neved/first-contributions.git
 ```
+<<<<<<< HEAD
 a `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
+=======
+A `a-te-git-neved` lesz a GitHub felhasználóneved. Ezzel letöltöd a first-contributions repositoryt GitHub-ról a saját számítógépedre.
+>>>>>>> upstream/main
 
 ## Készíts egy ágat (branch)
 
@@ -80,7 +92,11 @@ Commitoljuk a módosításokat a `git commit` paranccsal:
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
+<<<<<<< HEAD
 helyettesítsd `<your-name>` kifejezést a saját neveddel.
+=======
+Helyettesítsd `<your-name>` kifejezést a saját neveddel.
+>>>>>>> upstream/main
 
 ## Töltsd fel az elkészült változtatásokat a GitHub-ra (push)
 
@@ -88,7 +104,11 @@ Töltsd fel a változtatásokat a `git push` paranccsal:
 ```
 git push origin <add-your-branch-name>
 ```
+<<<<<<< HEAD
 helyettesítsd az `<add-your-branch-name>` kifejezést annak a branchnek a nevével, amit korábban létrehoztál.
+=======
+Helyettesítsd az `<add-your-branch-name>` kifejezést annak a branchnek a nevével, amit korábban létrehoztál.
+>>>>>>> upstream/main
 
 ## Küldd be a módosításaidat ellenőrzésre (pull request)
 

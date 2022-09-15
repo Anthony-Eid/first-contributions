@@ -6,11 +6,19 @@
 
 # Første bidrag
 
+<<<<<<< HEAD
 Det er svært. Det er altid svært når det er første gang. Specielt hvis man samarbejder er det ikke rart at begå fejl. Vi vil simplificere den store udfordring det er for nybegyndere at lære om open-source, og at lave deres f'rste bidrag.
 
 At læse artikler og se video guides hjælper, men hvad er bedre end at bruge det i praksis? Dette projekt håber at kunne tilbyde vejledning og gøre det overkommeligt for alle at lave deres første open-source bidrag.
 
 #### *Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer]( #tutorials-using-other-tools )*
+=======
+Det er svært. Det er altid svært når det er første gang. Specielt hvis man samarbejder er det ikke rart at begå fejl. Vi vil simplificere den store udfordring det er for nybegyndere at lære om open-source, og at lave deres første bidrag.
+
+At læse artikler og se video guides hjælper, men hvad er bedre end at bruge det i praksis? Dette projekt håber at kunne tilbyde vejledning og gøre det overkommeligt for alle at lave deres første open-source bidrag.
+
+#### *Hvis du ikke er komfortabel med command line, [her er vejledninger til GUI værktøjer](#Guides-med-andre-værktøjer)*
+>>>>>>> upstream/main
 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />

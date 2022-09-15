@@ -10,7 +10,11 @@ Se on vaikeaa. Ensimmäiset kerrat ovat aina vaikeita. Etenkin tehdessä yhteist
 
 Artikkeleiden lukeminen sekä tutoriaalien katsominen voi auttaa, mutta mikä onkaan parempaa kuin käytännön harjoite harjoitusympäristössä? Tämä projekti tähtää avun tarjoamiseen sekä aloittelijoiden ensimmäisen kontribuution yksinkertaistamiseen. Jos olet aikeissa kontribuoida ensimmäistä kertaa, seuraa alla olevia ohjeita.
 
+<<<<<<< HEAD
 #### *Jos et osaa käyttää komentoriviä sulavasti, [täältä löytyy tutoriaaleja GUI-työkalujen käyttöön.]( #tutorials-using-other-tools )*
+=======
+#### *Jos et osaa käyttää komentoriviä sulavasti, [täältä löytyy tutoriaaleja GUI-työkalujen käyttöön.](#Muiden-työkalujen-tutoriaaleja)*
+>>>>>>> upstream/main
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 

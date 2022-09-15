@@ -11,7 +11,11 @@ Teško je. Prvi pokušaj je uvek težak. Kada sarađuješ sa drugima, napraviti 
 Iako blogovi i tutorijali mogu da pomognu, ništa nije bolje nego uzeti stvari u svoje ruke i zaista doprinositi u trening-sredini. Ovaj projekat ima za cilj da pruži konkretne korake i olakša način na koji početnici prilažu svoje prve doprinose (eng. contributions). Ukoliko ste se prepoznali u tekstu iznad, pratite sledeće korake.
 
 
+<<<<<<< HEAD
 #### *Ako vam je nezgodno da čitate tekst u komandnoj liniji, [evo linka kroz GUI alate.]( #tutorials-using-other-tools )*
+=======
+#### *Ako vam je nezgodno da čitate tekst u komandnoj liniji, [evo linka kroz GUI alate.](#Uputstva-za-druge-alate)*
+>>>>>>> upstream/main
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="Napravite fork repozitorijuma" />
 
@@ -44,7 +48,11 @@ Gde je umesto `this-is-you` upisano vaše korisničko ime. Ovim kopirate sadrža
 
 ## Pravljenje grane *branch*
 
+<<<<<<< HEAD
 Prebacite se u radni rirektorijum na vašoj mašini:
+=======
+Prebacite se u radni direktorijum na vašoj mašini:
+>>>>>>> upstream/main
 ```
 cd first-contributions
 ```
@@ -89,7 +97,11 @@ gde umesto `<add-your-branch-name>` stavljate ime vašeg grananja.
 
 ## Pošaljite izmene na reviziju
 
+<<<<<<< HEAD
 Ukoliko odete na repoyitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
+=======
+Ukoliko odete na repozitorijum na vašem GitHub nalogu primetićete `Compare & pull request` Dugme. Kliknite na njega.
+>>>>>>> upstream/main
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 

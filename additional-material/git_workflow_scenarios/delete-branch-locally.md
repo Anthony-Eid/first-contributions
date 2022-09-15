@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Deleting a locally created Branch
+=======
+# Deleting a locally created Branch
+>>>>>>> upstream/main
 
 This will be handy when you accidently misspelled a branch name.
 
